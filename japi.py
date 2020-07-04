@@ -27,7 +27,7 @@ def main():
             print(response)
             f.write(response)
         else:
-            sys.exit("\n Hope You Have a Good Day\n")
+            sys.exit("\n Stock Quotes retrieved successfully!\n")
 
 
 main()
